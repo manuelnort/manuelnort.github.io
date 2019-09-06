@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["about"],{f820:function(t,s,e){"use strict";e.r(s);var n=function(){var t=this,s=t.$createElement,e=t._self._c||s;return e("div",{staticClass:"about"},[e("h1",[t._v("About")]),e("P",[t._v("This is a TodoList App project 1")])],1)},o=[],a=e("2877"),u={},i=Object(a["a"])(u,n,o,!1,null,null,null);s["default"]=i.exports}}]);
+//# sourceMappingURL=about.0faf2ed2.js.map
